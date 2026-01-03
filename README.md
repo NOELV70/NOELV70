@@ -3,7 +3,9 @@
 
 Here are some ideas to get you started:
 -->
-Noel VellemansSystems Architect | SoC Bring-up & Linux Kernel EngineerLow-Level Specialist | Automotive Tech Veteran | Smart Infrastructure Developer
+Noel Vellemans
+
+Systems Architect | SoC Bring-up & Linux Kernel EngineerLow-Level Specialist | Automotive Tech Veteran | Smart Infrastructure Developer
 
 📖 About Me
 I am a Senior Embedded Systems Architect with over 30 years of experience taking raw silicon and turning it into mission-critical industrial products. 
