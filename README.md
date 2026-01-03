@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 -->
-Noel VellemansSystems Architect | SoC Bring-up & Linux Kernel EngineerLow-Level Specialist | Automotive Tech Veteran | Smart Infrastructure Developer📖 
+Noel VellemansSystems Architect | SoC Bring-up & Linux Kernel EngineerLow-Level Specialist | Automotive Tech Veteran | Smart Infrastructure Developer
 
-About Me
+📖 About Me
 I am a Senior Embedded Systems Architect with over 30 years of experience taking raw silicon and turning it into mission-critical industrial products. 
 My career is rooted in the high-stakes world of professional automation and automotive diagnostics, where I served as a key player in developing world-class tools for one of the industry's most prestigious manufacturers.
 
