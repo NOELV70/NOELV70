@@ -3,28 +3,24 @@
 
 Here are some ideas to get you started:
 -->
-Noel Vellemans
-
 Systems Architect | SoC Bring-up & Linux Kernel Engineer | Low-Level | Automation Tech Veteran | Smart Infrastructure
 
-📖 About Me
-I am a Senior Embedded Systems Architect with over 30 years of experience taking raw silicon and turning it into mission-critical industrial products. 
+<img width="671" height="422" alt="image" src="https://github.com/user-attachments/assets/f083076b-a381-4f03-89c0-97d2782280ed" />
 
-I specialize in Board Bring-up—the delicate art of making custom hardware breathe. 
 From writing the first line of a bootloader to optimizing real-time Linux kernel drivers, I bridge the gap between complex electrical engineering and high-level software application.
 
 🏛️ Technical Pillars
   🐧 Linux Kernel & SoC ExpertiseI don't just use Linux; I architect the platforms it runs on.
-  SoC Mastery: Expert-level bring-up for i.MX8, i.MX53, Rockchip RK35xx, and AT91, x86, MIPS.
+  SoC Mastery: Expert-level bring-up for i.MX8, i.MX53, Rockchip RK35xx, and AT91, x86, MIPS, ESP8266, ESP32 , Arm-Cortex (and others ..:-) .
   Kernel Development: Custom driver design, Device Tree (DTS) authoring, IRQ optimization, and PREEMPT_RT implementation for deterministic performance.
 
 Platform Engineering: 
   Buildroot : I build entire OS stacks from scratch, integrating kernel, drivers, libraries, and custom browser-based UIs.
   🚗 Automotive & Industrial Safety 
-  Coming from a professional automotive background, "safety-first" is my default setting.
+  Coming from a professional automotive and automation background, "safety-first" is my default setting.
 
 Protocols: Deep-level integration of OBD-II, CAN-bus, and ECU flash loaders.
-  Hardware Interfacing: FPGA-to-CPU communication, Linux FPGA drivers, and bit-bang JTAG protocols.
+  Hardware Interfacing: FPGA-to-CPU, Linux FPGA drivers, and bit-bang JTAG protocols..etc.
   Connectivity: Ethernet PHY bring-up, WiFi/SDMMC integration, and multi-session Bluetooth (HCI/RFCOMM/SDP).
 
 💾 Legacy ModernizationI have a unique "Full-Timeline" perspective, capable of migrating legacy infrastructure into the modern era.
