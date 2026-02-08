@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 -->
-Systems Architect | SoC Bring-up & Linux Kernel Engineer | Low-Level | Automation Tech | Smart Infrastructure
-
+**Systems Architect | SoC Bring-up & Linux Kernel Engineer | Low-Level | Automation Tech | Smart Infrastructure
+**
 <img width="671" height="422" alt="image" src="https://github.com/user-attachments/assets/f083076b-a381-4f03-89c0-97d2782280ed" />
 
-From writing the first line of a bootloader to optimizing real-time Linux kernel drivers, I bridge the gap between complex electrical engineering and high-level software application.
+From writing the first line of a bootloader to optimizing real-time Linux kernel drivers, lets bridge the gap between complex electrical engineering and high-level software application.
 
 🏛️ Technical Pillars
   🐧 Linux Kernel & SoC ExpertiseI don't just use Linux; I architect the platforms it runs on.
