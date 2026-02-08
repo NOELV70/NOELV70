@@ -50,3 +50,6 @@ Mid-1990s: Ethernet networking, MCP+I (NetBIOS APIs, NetBEUI, TCP/IP, IPX/SPX, N
 2005: Buildroot Linux kernel + rootfs specialization and professional IoT.<br>
 2010s: ARM SoC migration (AT91SAM9x, i.MX53, Cortex-Mx).<br>
 2020s: ARM64 architectures (i.MX8, RK356x).<br>
+<br>
+<br>
+☕ “From bit-banging to bring-up — fueled by espresso.”  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C21TRVZ5)
