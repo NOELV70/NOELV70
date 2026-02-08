@@ -38,7 +38,11 @@ Protocols: Deep-level integration of OBD-II, CAN-bus, and ECU flash loaders.<br>
   Displays MIPI-DSI, LVDS, RGB Panels, Backlight/Timing Control<br>
 <br>
 📊 Knowledge Timeline <br>
-  1990s: Bare-metal Assembly, 8/16-bit industrial controllers, and DOS-based TSR tools.<br>
-  2000s: Windows (W32, W95.W98,W-Nt,W-2000) and WinCE and device drivers for those. <br>
-  2010s: ARM SoC migration, Buildroot specialization, and professional IoT.<br>
-  2020s: ARM64 architectures <br>
+Knowledge Timeline <br>
+1990s: Bare-metal assembly, 8/16-bit industrial controllers, and DOS-based TSR tools.<br>
+Mid-1990s: Ethernet networking, MCP+I (NetBIOS APIs, NetBEUI, TCP/IP, IPX/SPX, NetBIOS wrappers for IP networks), etc.<br>
+2000s: Windows (Win32, Windows 95, Windows 98, Windows NT, Windows 2000, WinCE 3.0/4.0) and device drivers.<br>
+2003: Wireless – Bluetooth, Wi-Fi.<br>
+2005: Buildroot Linux kernel + rootfs specialization and professional IoT.<br>
+2010s: ARM SoC migration (AT91SAM9x, i.MX53, Cortex-Mx).<br>
+2020s: ARM64 architectures (i.MX8, RK356x).<br>
