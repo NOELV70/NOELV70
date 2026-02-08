@@ -3,28 +3,32 @@
 
 Here are some ideas to get you started:
 -->
-**Systems Architect | SoC Bring-up & Linux Kernel Engineer | Low-Level | Automation Tech | Smart Infrastructure
-**
+<h2>
+Systems Architect | SoC Bring-up & Linux Kernel Engineering | End-to-End Embedded Systems | Automation & Smart Infrastructure
+</h2>
 <br>
 <br>
 <br>
 <img width="671" height="422" alt="image" src="https://github.com/user-attachments/assets/f083076b-a381-4f03-89c0-97d2782280ed" />
-
-From writing the first line of a bootloader to optimizing real-time Linux kernel drivers, lets bridge the gap between complex electrical engineering and high-level software application.
-
+<br> 
+<br>
+From writing the first line of a bootloader to optimizing real-time Linux kernel drivers — I bridge the gap between complex electrical engineering and high-level software applications
+<br>
+<br>
 🏛️ Technical Pillars<br>
-  🐧 Linux Kernel & SoC ExpertiseI don't just use Linux; I architect the platforms it runs on.<br>
+  🐧 Linux Kernel & SoC Expertise<br>
+  I don't just use Linux; I architect the platforms it runs on.<br>
   SoC Mastery: Expert-level bring-up for i.MX8, i.MX53, Rockchip RK35xx, and AT91, x86, MIPS, ESP8266, ESP32 , Arm-Cortex (and others ..:-) .<br>
   Kernel Development: Custom driver design, Device Tree (DTS) authoring, IRQ optimization, and PREEMPT_RT implementation for deterministic performance.<br>
 
 Platform Engineering: <br>
-  Buildroot : I build entire OS stacks from scratch, integrating kernel, drivers, libraries, and custom browser-based UIs.<br>
+  Buildroot : I build entire OS stacks from scratch, integrating kernel, drivers, libraries, and custom browser-based UI's.<br>
   🚗 Automotive & Industrial Safety <br>
   Coming from a professional automotive and automation background, "safety-first" is my default setting.<br>
 
-Protocols: Deep-level integration of OBD-II, CAN-bus, and ECU flash loaders.<br>
-  Hardware Interfacing: FPGA-to-CPU, Linux FPGA drivers, and bit-bang JTAG protocols..etc.<br>
-  Connectivity: Ethernet PHY bring-up, WiFi/SDMMC integration, and multi-session Bluetooth (HCI/RFCOMM/SDP).<br>
+Protocols: Deep-level integration of OBD-II (bench/boot/and bdm-modes), CAN bus, ECU flash loaders, and custom protocols.<br>
+  Hardware Interfacing: FPGA-to-CPU integration, Linux FPGA drivers, and bit-banged JTAG protocols, etc.<br>
+  Connectivity: Ethernet PHY bring-up, Wi-Fi/SDMMC integration, and multi-session Bluetooth (HCI/RFCOMM/SDP).<br>
 
 💾 Legacy Modernization: I have a unique "Full-Timeline" perspective, capable of migrating legacy infrastructure into the modern era.<br>
   Bare Metal & Assembly: Deep roots in Z80, 6502, 6303, and 68HC12, x86.....<br>
