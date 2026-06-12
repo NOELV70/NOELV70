@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 Systems Architect | SoC Bring-up & Linux Kernel Engineering | End-to-End Embedded Systems | Automation & Smart Infrastructure
 </h2>
 <br>
+I've spent decades solving the problems that happen between datasheets and reality.
 <br>
 <br>
 <img width="671" height="422" alt="image" src="https://github.com/user-attachments/assets/f083076b-a381-4f03-89c0-97d2782280ed" />
